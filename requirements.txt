@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+selenium
+pandas
+matplotlib
+seaborn
+pymysql
+sqlalchemy
+streamlit
+pygithub
